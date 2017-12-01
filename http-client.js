@@ -1,3 +1,6 @@
+/*
+	unfortunately, ES6 is not supported on TR platforms
+*/
 const types = {
 	hidden: 1, text: 1, textarea: 1, file: 1
 };
